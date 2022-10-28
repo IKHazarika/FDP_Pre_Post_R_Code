@@ -5,4 +5,4 @@ This is R code running factor analyses and estimating structural equation models
 
 The results are presented in the two txt files.
 
-The R code is presented in the DataAnalysis2_Cleaned.R file.
+The R code is presented in the Data_Analysis1Cleaned.R file.
