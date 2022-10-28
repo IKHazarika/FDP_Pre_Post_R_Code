@@ -1,3 +1,7 @@
+#This file primarily contains the RESULTS of the analysis
+#Unexplained code is presented AFTER the results towards the end
+#More structured code is presented in the Data_Analysis1Cleaned.R file instead
+
 1. Checking reliability
 
 Satisfaction
